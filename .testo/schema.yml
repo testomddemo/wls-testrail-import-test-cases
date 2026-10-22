@@ -16,5 +16,7 @@ fields:
     required: true
   estimate:
     type: string
+    required: false
   refs:
     type: string
+    required: false
