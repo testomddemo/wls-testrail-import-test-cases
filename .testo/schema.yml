@@ -1,0 +1,20 @@
+formatVersion: 1
+additionalFields: false
+fields:
+  suite:
+    type: string
+    required: true
+  priority:
+    type: string
+    required: true
+    enum: [P1, P2, P3, P4]
+  caseType:
+    type: string
+    required: true
+  testrailId:
+    type: string
+    required: true
+  estimate:
+    type: string
+  refs:
+    type: string

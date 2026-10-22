@@ -1,0 +1,6 @@
+formatVersion: 1
+name: WLS TestRail Import
+product: testrail
+type: core
+caseFormat: structured-markdown-v1
+caseLabelPrefix: TC
